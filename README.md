@@ -1,6 +1,6 @@
 # HacktoberFest-2020
 
-![Hacktoberfest Goodies](../main/HacktoberFest-2020/Hacktoberfest%20Goodies.jpg)
+![Hacktoberfest Goodies](../main/HacktoberFest-2020/Hacktoberfest Goodies.jpg)
 
 ## It contains my pull requests for Hacktoberfest 2020.
 
