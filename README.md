@@ -1,5 +1,7 @@
 # HacktoberFest-2020
 
+<img src="https://drive.google.com/file/d/1yZuEhCA-AgYEMRk5htM1jh4ZbHz-7aOu/view" alt="Hacktoberfest Goodies"/>
+
 ## It contains my pull requests for Hacktoberfest 2020.
 
 (1.) Pull Request 1 :- One Odd Occuring Problem -
