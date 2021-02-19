@@ -1,6 +1,6 @@
 # HacktoberFest-2020
 
-<img src="https://drive.google.com/file/d/1yZuEhCA-AgYEMRk5htM1jh4ZbHz-7aOu/view" alt="Hacktoberfest Goodies"/>
+![Hacktoberfest Goodies](../main/HacktoberFest-2020/Hacktoberfest%20Goodies.jpg)
 
 ## It contains my pull requests for Hacktoberfest 2020.
 
